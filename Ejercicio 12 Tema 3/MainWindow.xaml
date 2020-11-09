@@ -8,6 +8,8 @@
         Title="MainWindow" Height="550" Width="850"
         MinHeight="550" MinWidth="850"
         Icon="form.ico">
+    
+    
     <DockPanel LastChildFill="False">
 
         <TextBlock DockPanel.Dock="Top" Text="Formulario" FontSize="40" FontWeight="Bold" HorizontalAlignment="Center"/>
